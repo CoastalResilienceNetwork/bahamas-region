@@ -5,7 +5,7 @@
             "type": "ags",
             "layerType": "dynamic",
             "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/Bahamas",
-            "name": "Andros"
+            "name": "Bahamas"
         },
         "includeLayers": [
             {
