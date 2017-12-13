@@ -58,8 +58,15 @@
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
-            "title": "",
-            "description": "<p>Coastal Resilience is a decision-support tool that incorporates the best available science and local data to enable communities to visualize .... (All this text can be customized)",
+            "title": "Bahamas",
+            "description": "Coastal Resilience is a decision-support tool that incorporates the best available science and local data to enable communities to visualize .... (All this text can be customized)",
+      		"plugins": [	
+                {
+                    "title": "<img src='img/flood_slr.png' hspace=10>Regional Planning",
+                    "description": "",
+                    "pluginName": "regional-planning"
+                }
+            ]
       }
 }
 
